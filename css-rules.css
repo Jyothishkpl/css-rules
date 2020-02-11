@@ -1,0 +1,20 @@
+
+/* Alt text missing from image */
+
+img:not([alt]){
+  border: 4px red dashed !important;
+}
+
+
+/* Type missing from input  */
+
+input:not([type]){
+  border: 4px red dashed !important;
+}
+
+
+/*Type missing from button */
+
+button:not([type]){
+  border: 4px red dashed !important;
+}
